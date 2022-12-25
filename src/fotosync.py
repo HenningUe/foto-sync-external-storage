@@ -6,8 +6,8 @@ import sys
 import time
 import progressbar
 from progressbar.widgets import Bar, Percentage
-from datasync.handler import DataSyncHandler, DataSyncHandlerConfig
-from datasync import DirectoryGetter
+from simple_file_sync.handler import DataSyncHandler, DataSyncHandlerConfig
+from simple_file_sync import DirectoryGetter
 
 
 def main():
