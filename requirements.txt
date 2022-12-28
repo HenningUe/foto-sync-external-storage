@@ -1,2 +1,2 @@
-python-utils
-progressbar2
+simplefilemirror
+pyinstaller
