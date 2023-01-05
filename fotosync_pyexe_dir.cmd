@@ -1,0 +1,1 @@
+set PY_EXE_DIR=G:\programs\python310_p
