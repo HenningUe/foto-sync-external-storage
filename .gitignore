@@ -1,2 +1,5 @@
 /src/progressbar
 /src/python_utils
+/*.spec
+/dist
+/build
