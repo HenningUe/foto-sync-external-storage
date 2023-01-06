@@ -9,4 +9,4 @@ The executable is created by calling ```fotosync_build.cmd```. So far only Windo
 ### How to use executable
 1. Copy the executable to the external storage where fotos are stored (SD-card, ..). 
 2. Call the executable for the first time. A ini-file is created. Inside the ini-file you must specific the target directory, to which the fotos are mirrored.
-3. If the ini-file is set up, you can call the executable whenever there are new fotos on your the external storage
+3. If the ini-file is set up, you can call the executable whenever there are new fotos on the external storage
